@@ -16,7 +16,7 @@ span{
     width: 10px;
     height: 10px;
     pointer-events: none;
-    border-radius: 50%;
+    border-radius: 51%;
 }
 
 span::before{
